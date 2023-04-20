@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Недвижимость" />
+			<Item Name="Columns.Area.Caption" Value="Area" />
+			<Item Name="Columns.Name.Caption" Value="Name" />
+			<Item Name="Columns.Notes.Caption" Value="Notes" />
+			<Item Name="Columns.OfferType.Caption" Value="Offer type" />
+			<Item Name="Columns.Price.Caption" Value="Price" />
+			<Item Name="Columns.RealtyType.Caption" Value="Realty type" />
+			<Item Name="EventsProcessSchema.Caption" Value="Бизнес-процесс" />
+		</Items>
+	</Group>
+</Resources>

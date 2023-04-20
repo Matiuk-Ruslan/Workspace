@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="cs-CZ">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Недвижимость" />
+			<Item Name="Columns.Name.Caption" Value="Počet prodaných kusů" />
+			<Item Name="Columns.Notes.Caption" Value="lCaption" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+LkluVJ2ddETjg1VgA0H3Pb5/N+O/AmZpAv/lNWGaRtWXgfBL+989E+vxnECVnX/SKAb8zSQl5+0CCBfXXnzyA==",
+  "dgSpecHash": "toCOLUVLsWvHZ+/8Fn7gr29KeylO7n1+IxcKfyy77aNxbthbjGGi2+7qI5LT582qt5WWkFyjFHSgLGJPn/JUJQ==",
   "success": true,
-  "projectFilePath": "D:\\[Education]\\[Sandbox]\\workspace\\packages\\Sandbox\\Files\\Sandbox.csproj",
+  "projectFilePath": "D:\\[Education]\\[Sandbox]\\environment\\Terrasoft.WebApp\\Terrasoft.Configuration\\Pkg\\Sandbox\\Files\\Sandbox.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

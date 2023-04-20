@@ -8,32 +8,31 @@
     ".NETFramework,Version=v4.7.2": []
   },
   "packageFolders": {
-    "C:\\Users\\Maib\\.nuget\\packages\\": {},
+    "C:\\WINDOWS\\TEMP\\4\\IIS APPPOOL_education.sandbox.local\\Default\\dotnet\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
-    "version": "1.0.0",
+    "version": "8.0.6.3522",
     "restore": {
-      "projectUniqueName": "D:\\[Education]\\[Sandbox]\\workspace\\packages\\Sandbox\\Files\\Sandbox.csproj",
+      "projectUniqueName": "D:\\[Education]\\[Sandbox]\\environment\\Terrasoft.WebApp\\Terrasoft.Configuration\\Pkg\\Sandbox\\Files\\Sandbox.csproj",
       "projectName": "Sandbox",
-      "projectPath": "D:\\[Education]\\[Sandbox]\\workspace\\packages\\Sandbox\\Files\\Sandbox.csproj",
-      "packagesPath": "C:\\Users\\Maib\\.nuget\\packages\\",
-      "outputPath": "D:\\[Education]\\[Sandbox]\\workspace\\packages\\Sandbox\\Files\\obj\\",
+      "projectPath": "D:\\[Education]\\[Sandbox]\\environment\\Terrasoft.WebApp\\Terrasoft.Configuration\\Pkg\\Sandbox\\Files\\Sandbox.csproj",
+      "packagesPath": "C:\\WINDOWS\\TEMP\\4\\IIS APPPOOL_education.sandbox.local\\Default\\dotnet\\.nuget\\packages\\",
+      "outputPath": "D:\\[Education]\\[Sandbox]\\environment\\Terrasoft.WebApp\\Terrasoft.Configuration\\Pkg\\Sandbox\\Files\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Maib\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\WINDOWS\\TEMP\\4\\IIS APPPOOL_education.sandbox.local\\Default\\dotnet\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net472"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages": {},
-        "https://api.nuget.org/v3/index.json": {},
-        "https://nuget.pkg.github.com/edenlabllc/index.json": {}
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net472": {

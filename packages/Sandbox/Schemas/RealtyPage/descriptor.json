@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "e0988eb5-7757-4578-883e-0807b208c686",
+    "Name": "RealtyPage",
+    "ModifiedOnUtc": "\/Date(1681996802000)\/",
+    "Parent": {
+      "UId": "d62293c0-7f14-44b1-b547-735fb40499cd",
+      "Name": "BaseModulePageV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Edit page: \"Realty\"",
+    "DependsOn": []
+  }
+}

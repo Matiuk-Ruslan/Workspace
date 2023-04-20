@@ -1,0 +1,40 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "01018946-2d43-40ae-a1da-db597801c3ce"
+        },
+        {
+          "SchemaColumnUId": "34391227-ac90-4b55-9739-6720e97a0594",
+          "Value": "f4703a3e-0427-45d2-bb0c-95e27ec16e8e",
+          "DisplayValue": "Типы недвижимости"
+        },
+        {
+          "SchemaColumnUId": "9e46bb69-9788-423c-b7cd-4c624081082d",
+          "Value": "29bff627-1acc-4fff-90cd-b39f89d4bc81",
+          "DisplayValue": "# Sandbox"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "def2e1c3-cda8-40ef-b113-fad68b6fd759"
+        },
+        {
+          "SchemaColumnUId": "34391227-ac90-4b55-9739-6720e97a0594",
+          "Value": "8e54e3aa-1207-40c2-acd4-b8d2e3bd83a1",
+          "DisplayValue": "Типы предложения недвижимости"
+        },
+        {
+          "SchemaColumnUId": "9e46bb69-9788-423c-b7cd-4c624081082d",
+          "Value": "29bff627-1acc-4fff-90cd-b39f89d4bc81",
+          "DisplayValue": "# Sandbox"
+        }
+      ]
+    }
+  ]
+}
