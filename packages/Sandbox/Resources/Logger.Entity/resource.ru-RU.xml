@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Logger" />
+			<Item Name="Columns.Body.Caption" Value="Body" />
+			<Item Name="Columns.Execution.Caption" Value="Execution" />
+			<Item Name="Columns.Id.Caption" Value="Id" />
+			<Item Name="Columns.Service.Caption" Value="Service" />
+			<Item Name="EventsProcessSchema.Caption" Value="Бизнес-процесс" />
+		</Items>
+	</Group>
+</Resources>

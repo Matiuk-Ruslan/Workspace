@@ -1,0 +1,109 @@
+{
+  "MetaData": {
+    "Schema": {
+      "ManagerName": "EntitySchemaManager",
+      "UId": "afbe0c6c-a5e4-4e07-bb99-9e21c13218d3",
+      "A2": "Logger",
+      "A5": "76f52127-c782-4275-b330-27b3042ab6bc",
+      "B1": [],
+      "B2": [],
+      "B3": [],
+      "B6": "db086ebe-8ac0-40f4-b7ac-a0b9ebca90cf",
+      "B8": "8.0.6.3522",
+      "EG1": {
+        "UId": "1f95eaed-a016-4706-b258-95dba3dac906",
+        "A2": "Entity_682dd18EventsProcess",
+        "A5": "76f52127-c782-4275-b330-27b3042ab6bc",
+        "B1": [],
+        "B2": [],
+        "B3": [],
+        "B8": "8.0.6.3522",
+        "FJ1": [],
+        "IJ3": false,
+        "BK8": "bb4d6607-026b-4b27-b640-8f5c77c1e89d",
+        "BK15": [],
+        "BK37": {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaParameter",
+          "UId": "cdd58be7-2dba-4a5e-869b-1ad5d6d7513a",
+          "A2": "NotificationCaption",
+          "A3": "bb4d6607-026b-4b27-b640-8f5c77c1e89d",
+          "A4": "bb4d6607-026b-4b27-b640-8f5c77c1e89d",
+          "L1": "8b3f29bb-ea14-4ce5-a5c5-293a929b6ba2",
+          "L8": {
+            "GS1": 3,
+            "GS2": "[#[PropertyValue:Caption]#]"
+          }
+        },
+        "BK1": "FFFFFFFF",
+        "BK2": "FFBBBBBB",
+        "BK3": [],
+        "BK5": [],
+        "BK4": [],
+        "BK9": [],
+        "BK10": true,
+        "BK34": "null",
+        "Labels": [],
+        "BK24": [],
+        "JC1": []
+      },
+      "D8": "1b56b061-4e91-4974-9038-df8340e534f2",
+      "D29": "null",
+      "D30": "null",
+      "D31": "null",
+      "D3": "0ce89ada-1383-c2b3-5c01-5558f878863d",
+      "D2": [
+        {
+          "UId": "53d7491b-5797-185f-4cd5-05185200d687",
+          "A2": "Body",
+          "A3": "afbe0c6c-a5e4-4e07-bb99-9e21c13218d3",
+          "A4": "afbe0c6c-a5e4-4e07-bb99-9e21c13218d3",
+          "A5": "76f52127-c782-4275-b330-27b3042ab6bc",
+          "S2": "c0f04627-4620-4bc0-84e5-9419dc8516b1",
+          "E5": false,
+          "E25": true
+        },
+        {
+          "UId": "e1cd848b-d3df-cc37-49d4-95049e5e2fcb",
+          "A2": "Service",
+          "A3": "afbe0c6c-a5e4-4e07-bb99-9e21c13218d3",
+          "A4": "afbe0c6c-a5e4-4e07-bb99-9e21c13218d3",
+          "A5": "76f52127-c782-4275-b330-27b3042ab6bc",
+          "S2": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd",
+          "E5": false,
+          "E25": true
+        },
+        {
+          "UId": "8913ddea-702d-eca9-7907-420f8ebe1039",
+          "A2": "Execution",
+          "A3": "afbe0c6c-a5e4-4e07-bb99-9e21c13218d3",
+          "A4": "afbe0c6c-a5e4-4e07-bb99-9e21c13218d3",
+          "A5": "76f52127-c782-4275-b330-27b3042ab6bc",
+          "S2": "d21e9ef4-c064-4012-b286-fa1a8171da44"
+        },
+        {
+          "UId": "0ce89ada-1383-c2b3-5c01-5558f878863d",
+          "A2": "Id",
+          "A3": "afbe0c6c-a5e4-4e07-bb99-9e21c13218d3",
+          "A4": "afbe0c6c-a5e4-4e07-bb99-9e21c13218d3",
+          "A5": "76f52127-c782-4275-b330-27b3042ab6bc",
+          "S2": "23018567-a13c-4320-8687-fd6f9e3699bd",
+          "E2": 1,
+          "E5": false,
+          "E12": {
+            "FB1": 3,
+            "FB2": "03fac162-6a98-4f29-8d28-dc2f23ab48da"
+          }
+        }
+      ],
+      "D6": [],
+      "D20": {
+        "A2": "LoggerEvents"
+      },
+      "D35": {},
+      "D36": {
+        "A3": "afbe0c6c-a5e4-4e07-bb99-9e21c13218d3",
+        "BS1": false
+      }
+    }
+  }
+}

@@ -1,0 +1,9 @@
+D:\[Education]\[Sandbox]\workspace\packages\Sandbox\Files\Bin\Sandbox.dll
+D:\[Education]\[Sandbox]\workspace\packages\Sandbox\Files\Bin\Sandbox.pdb
+D:\[Education]\[Sandbox]\workspace\packages\Sandbox\Files\obj\Debug\Sandbox.csproj.AssemblyReference.cache
+D:\[Education]\[Sandbox]\workspace\packages\Sandbox\Files\obj\Debug\Sandbox.GeneratedMSBuildEditorConfig.editorconfig
+D:\[Education]\[Sandbox]\workspace\packages\Sandbox\Files\obj\Debug\Sandbox.AssemblyInfoInputs.cache
+D:\[Education]\[Sandbox]\workspace\packages\Sandbox\Files\obj\Debug\Sandbox.AssemblyInfo.cs
+D:\[Education]\[Sandbox]\workspace\packages\Sandbox\Files\obj\Debug\Sandbox.csproj.CoreCompileInputs.cache
+D:\[Education]\[Sandbox]\workspace\packages\Sandbox\Files\obj\Debug\Sandbox.dll
+D:\[Education]\[Sandbox]\workspace\packages\Sandbox\Files\obj\Debug\Sandbox.pdb
