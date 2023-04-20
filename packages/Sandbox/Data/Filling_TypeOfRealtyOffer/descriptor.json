@@ -2,20 +2,13 @@
   "Descriptor": {
     "UId": "4174c3bf-dcf0-0436-43d6-c2114cc28891",
     "Name": "Filling_TypeOfRealtyOffer",
-    "ModifiedOnUtc": "\/Date(1681997418000)\/",
+    "ModifiedOnUtc": "\/Date(1682001192000)\/",
     "InstallType": 0,
     "Schema": {
       "UId": "8f6d27af-f0fe-4671-8dec-e4153702f8d2",
       "Name": "TypeOfRealtyOffer"
     },
     "Columns": [
-      {
-        "ColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
-        "IsForceUpdate": false,
-        "IsKey": true,
-        "ColumnName": "Id",
-        "DataTypeValueUId": "23018567-a13c-4320-8687-fd6f9e3699bd"
-      },
       {
         "ColumnUId": "736c30a7-c0ec-4fa9-b034-2552b319b633",
         "IsForceUpdate": false,
@@ -29,6 +22,20 @@
         "IsKey": false,
         "ColumnName": "Description",
         "DataTypeValueUId": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
+      },
+      {
+        "ColumnUId": "fa0f0858-8aed-367f-ce6e-90a106bd358d",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "Coefficient",
+        "DataTypeValueUId": "5cc8060d-6d10-4773-89fc-8c12d6f659a6"
+      },
+      {
+        "ColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+        "IsForceUpdate": false,
+        "IsKey": true,
+        "ColumnName": "Id",
+        "DataTypeValueUId": "23018567-a13c-4320-8687-fd6f9e3699bd"
       }
     ]
   }

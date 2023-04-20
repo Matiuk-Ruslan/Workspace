@@ -1,7 +1,22 @@
 define("RealtyPage", [], function() {
 	return {
 		entitySchemaName: "Realty",
-		attributes: {},
+		attributes: {
+			"Commission": {
+				dataValueType: Terrasoft.DataValueType.FLOAT2,
+				dependencies: [
+                    {
+                        columns: ["Price", "OfferType"],
+                        methodName: "calculateCommission"
+                    }
+                ]
+			},
+			"OfferType": {
+				lookupListConfig: {
+					columns: ["Coefficient"]
+				}
+			}
+		},
 		modules: /**SCHEMA_MODULES*/{}/**SCHEMA_MODULES*/,
 		details: /**SCHEMA_DETAILS*/{
 			"Files": {
@@ -47,7 +62,21 @@ define("RealtyPage", [], function() {
 				}
 			}
 		}/**SCHEMA_BUSINESS_RULES*/,
-		methods: {},
+		methods: {
+			onEntityInitialized: function() {
+                this.callParent(arguments);
+				this.calculateCommission();
+			},
+			calculateCommission: function() {
+				var price = this.get("Price");
+				if(!price) { price = 0; }
+				var offerType = this.get("OfferType");
+				var commissionRate = 0;
+				if(offerType) { commissionRate = offerType.Coefficient; }
+				var commission = price * commissionRate;
+				this.set("Commission", commission);
+			}
+		},
 		dataModels: /**SCHEMA_DATA_MODELS*/{}/**SCHEMA_DATA_MODELS*/,
 		diff: /**SCHEMA_DIFF*/[
 			{
@@ -100,6 +129,24 @@ define("RealtyPage", [], function() {
 				"parentName": "ProfileContainer",
 				"propertyName": "items",
 				"index": 2
+			},
+			{
+				"operation": "insert",
+				"name": "Commission",
+				"values": {
+					"layout": {
+						"colSpan": 24,
+						"rowSpan": 1,
+						"column": 0,
+						"row": 3,
+						"layoutName": "ProfileContainer"
+					},
+					"bindTo": "Commission",
+					"enabled": false
+				},
+				"parentName": "ProfileContainer",
+				"propertyName": "items",
+				"index": 3
 			},
 			{
 				"operation": "insert",

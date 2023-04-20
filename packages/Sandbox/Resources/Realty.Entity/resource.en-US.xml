@@ -4,6 +4,7 @@
 		<Items>
 			<Item Name="Caption" Value="Недвижимость" />
 			<Item Name="Columns.Area.Caption" Value="Area" />
+			<Item Name="Columns.Commission.Caption" Value="Commission" />
 			<Item Name="Columns.Name.Caption" Value="Name" />
 			<Item Name="Columns.Notes.Caption" Value="Notes" />
 			<Item Name="Columns.OfferType.Caption" Value="Offer type" />
