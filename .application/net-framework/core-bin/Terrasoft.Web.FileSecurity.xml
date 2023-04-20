@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Terrasoft.Web.FileSecurity</name>
+    </assembly>
+    <members>
+        <member name="T:Terrasoft.Web.FileSecurity.FileUploadFilterBindings">
+            <summary>
+            Binds dependency injection types.
+            </summary>
+        </member>
+        <member name="M:Terrasoft.Web.FileSecurity.FileUploadFilterBindings.Initialize(Microsoft.Extensions.DependencyInjection.IServiceCollection)">
+            <summary>
+            Performs DI types binding.
+            </summary>
+        </member>
+    </members>
+</doc>

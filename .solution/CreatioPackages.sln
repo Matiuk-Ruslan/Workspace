@@ -1,0 +1,15 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{32d3ec5b-b4bb-4f09-9c36-92cc5e028e8a}") = "Sandbox", "..\packages\Sandbox\Files\Sandbox.csproj", "{803d099f-3e94-4855-b3f7-7a26ff74ad73}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+			{803d099f-3e94-4855-b3f7-7a26ff74ad73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+			{803d099f-3e94-4855-b3f7-7a26ff74ad73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+			{803d099f-3e94-4855-b3f7-7a26ff74ad73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+			{803d099f-3e94-4855-b3f7-7a26ff74ad73}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

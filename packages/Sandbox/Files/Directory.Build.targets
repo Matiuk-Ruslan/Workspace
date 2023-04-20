@@ -1,0 +1,19 @@
+<Project>
+	<ItemGroup Condition="'$(PkgPath)' != ''">
+		<Compile Remove="$(PkgPath)/Sandbox/Assemblies/**" />
+		<Compile Remove="$(PkgPath)/Sandbox/Data/**" />
+		<Compile Remove="$(PkgPath)/Sandbox/SqlScripts/**" />
+		<Compile Remove="$(PkgPath)/Sandbox/Schemas\**" />
+		<Compile Remove="$(PkgPath)/Sandbox/Resources/**" />
+		<EmbeddedResource Remove="$(PkgPath)/Sandbox/Assemblies/**" />
+		<EmbeddedResource Remove="$(PkgPath)/Sandbox/Data/**" />
+		<EmbeddedResource Remove="$(PkgPath)/Sandbox/SqlScripts/**" />
+		<EmbeddedResource Remove="$(PkgPath)/Sandbox/Schemas/**" />
+		<EmbeddedResource Remove="$(PkgPath)/Sandbox/Resources/**" />
+		<None Remove="$(PkgPath)/Sandbox/Assemblies/**" />
+		<None Remove="$(PkgPath)/Sandbox/Data/**" />
+		<None Remove="$(PkgPath)/Sandbox/SqlScripts/**" />
+		<None Remove="$(PkgPath)/Sandbox/Schemas/**" />
+		<None Remove="$(PkgPath)/Sandbox/Resources/**" />
+  </ItemGroup>
+</Project>

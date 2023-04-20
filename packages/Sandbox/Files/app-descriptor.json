@@ -1,0 +1,19 @@
+{
+  "Name": "Sandbox",
+  "Code": "Sandbox",
+  "Description": "",
+  "Maintainer": "Customer",
+  "Icon": "PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik03LjI3NTM0IDhDNi41NzA5OSA4IDYgOC41OTcyMiA2IDkuMzMzOTNDNiAxMC4wNzA2IDYuNTcwOTkgMTAuNjY3OSA3LjI3NTM0IDEwLjY2NzlIMjQuNzI0N0MyNS40MjkgMTAuNjY3OSAyNiAxMC4wNzA2IDI2IDkuMzMzOTNDMjYgOC41OTcyMiAyNS40MjkgOCAyNC43MjQ3IDhINy4yNzUzNFpNNiAxNkM2IDE1LjI2MzMgNi41NzA5OSAxNC42NjYxIDcuMjc1MzQgMTQuNjY2MUgyNC43MjQ3QzI1LjQyOSAxNC42NjYxIDI2IDE1LjI2MzMgMjYgMTZDMjYgMTYuNzM2NyAyNS40MjkgMTcuMzMzOSAyNC43MjQ3IDE3LjMzMzlINy4yNzUzNEM2LjU3MDk5IDE3LjMzMzkgNiAxNi43MzY3IDYgMTZaTTYgMjIuNjY2MUM2IDIxLjkyOTQgNi41NzA5OSAyMS4zMzIxIDcuMjc1MzQgMjEuMzMyMUgyNC43MjQ3QzI1LjQyOSAyMS4zMzIxIDI2IDIxLjkyOTQgMjYgMjIuNjY2MUMyNiAyMy40MDI4IDI1LjQyOSAyNCAyNC43MjQ3IDI0SDcuMjc1MzRDNi41NzA5OSAyNCA2IDIzLjQwMjggNiAyMi42NjYxWiIgZmlsbD0id2hpdGUiLz4KPC9zdmc+Cg==",
+  "IconName": "icon_12.svg",
+  "Color": "#FFAC07",
+  "MarketplaceLink": "",
+  "HelpLink": "",
+  "OrderLink": "",
+  "SupportEmail": "",
+  "Packages": [
+    {
+      "UId": "db086ebe-8ac0-40f4-b7ac-a0b9ebca90cf",
+      "Name": "Sandbox"
+    }
+  ]
+}
