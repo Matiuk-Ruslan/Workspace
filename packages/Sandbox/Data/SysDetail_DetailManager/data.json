@@ -15,6 +15,22 @@
           "Value": "0c43958a-a409-47bc-a3cb-9bc32451a45a"
         }
       ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "7aaa0dd0-a2cb-4450-8074-60adf247c131"
+        },
+        {
+          "SchemaColumnUId": "631e7238-2751-4a21-b6d6-9f1ac0c84f95",
+          "Value": "482b5920-3d7e-41fc-a9b3-14715e9b615d"
+        },
+        {
+          "SchemaColumnUId": "8585929c-62ae-4673-ae8d-bb37f87e5144",
+          "Value": "fb9f820f-bd1a-4178-88bf-389dc4996cdc"
+        }
+      ]
     }
   ]
 }

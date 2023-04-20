@@ -3,6 +3,8 @@
 	<Group Type="String">
 		<Items>
 			<Item Name="Caption" Value="Страница редактирования: &quot;Недвижимость&quot;" />
+			<Item Name="LocalizableStrings.GeneralInformationTabLabelTabCaption.Value" Value="Общая информация" />
+			<Item Name="LocalizableStrings.RealtySchemaDetailDetailCaptionOnPage.Value" Value="Просмотры недвижимости" />
 		</Items>
 	</Group>
 </Resources>

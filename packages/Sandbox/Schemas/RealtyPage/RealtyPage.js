@@ -11,6 +11,14 @@ define("RealtyPage", [], function() {
 					"masterColumn": "Id",
 					"detailColumn": "Realty"
 				}
+			},
+			"RealtySchemaDetail": {
+				"schemaName": "RealtySchemaDetail",
+				"entitySchemaName": "RealtyView",
+				"filter": {
+					"detailColumn": "Realty",
+					"masterColumn": "Id"
+				}
 			}
 		}/**SCHEMA_DETAILS*/,
 		businessRules: /**SCHEMA_BUSINESS_RULES*/{
@@ -150,10 +158,10 @@ define("RealtyPage", [], function() {
 			},
 			{
 				"operation": "insert",
-				"name": "NotesAndFilesTab",
+				"name": "GeneralInformationTabLabel",
 				"values": {
 					"caption": {
-						"bindTo": "Resources.Strings.NotesAndFilesTabCaption"
+						"bindTo": "Resources.Strings.GeneralInformationTabLabelTabCaption"
 					},
 					"items": [],
 					"order": 0
@@ -161,6 +169,31 @@ define("RealtyPage", [], function() {
 				"parentName": "Tabs",
 				"propertyName": "tabs",
 				"index": 0
+			},
+			{
+				"operation": "insert",
+				"name": "RealtySchemaDetail",
+				"values": {
+					"itemType": 2,
+					"markerValue": "added-detail"
+				},
+				"parentName": "GeneralInformationTabLabel",
+				"propertyName": "items",
+				"index": 0
+			},
+			{
+				"operation": "insert",
+				"name": "NotesAndFilesTab",
+				"values": {
+					"caption": {
+						"bindTo": "Resources.Strings.NotesAndFilesTabCaption"
+					},
+					"items": [],
+					"order": 1
+				},
+				"parentName": "Tabs",
+				"propertyName": "tabs",
+				"index": 1
 			},
 			{
 				"operation": "insert",

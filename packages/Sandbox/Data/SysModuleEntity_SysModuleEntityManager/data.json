@@ -4,6 +4,22 @@
       "Row": [
         {
           "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "e1ce1fd7-05b6-45e1-83bc-0d92079e3eca"
+        },
+        {
+          "SchemaColumnUId": "0c59594b-490a-4b55-a564-5841cfae3c19",
+          "Value": "482b5920-3d7e-41fc-a9b3-14715e9b615d"
+        },
+        {
+          "SchemaColumnUId": "3107ef98-a02e-4ea8-809a-67dc3025ef4a",
+          "Value": "null"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
           "Value": "fc908de5-8c6c-4d7a-9e4a-482e467d0927"
         },
         {
