@@ -2,8 +2,9 @@
 <Resources Culture="en-US">
 	<Group Type="String">
 		<Items>
-			<Item Name="Caption" Value="Section scheme: &quot;Realty&quot;" />
-			<Item Name="LocalizableStrings.Caption.Value" Value="Недвижимость" />
+			<Item Name="Caption" Value="Section schema: &quot;Realty&quot;" />
+			<Item Name="LocalizableStrings.Caption.Value" Value="Realty" />
+			<Item Name="LocalizableStrings.MainCreateRecordsHelp.Value" Value="Create records" />
 		</Items>
 	</Group>
 </Resources>

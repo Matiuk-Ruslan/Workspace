@@ -10,6 +10,11 @@
     "Description": "Creatio certification task",
     "DependsOn": [
       {
+        "UId": "29996b0e-2b19-27a8-dab4-67fbc00db573",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtProcessDesigner"
+      },
+      {
         "UId": "613fd913-be03-46ce-909b-f44e4225469e",
         "PackageVersion": "7.8.0",
         "Name": "UIv2"

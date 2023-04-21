@@ -17,17 +17,17 @@
         "DataTypeValueUId": "23018567-a13c-4320-8687-fd6f9e3699bd"
       },
       {
-        "ColumnUId": "3107ef98-a02e-4ea8-809a-67dc3025ef4a",
-        "IsForceUpdate": false,
-        "IsKey": false,
-        "ColumnName": "TypeColumnUId",
-        "DataTypeValueUId": "23018567-a13c-4320-8687-fd6f9e3699bd"
-      },
-      {
         "ColumnUId": "0c59594b-490a-4b55-a564-5841cfae3c19",
         "IsForceUpdate": false,
         "IsKey": false,
         "ColumnName": "SysEntitySchemaUId",
+        "DataTypeValueUId": "23018567-a13c-4320-8687-fd6f9e3699bd"
+      },
+      {
+        "ColumnUId": "3107ef98-a02e-4ea8-809a-67dc3025ef4a",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "TypeColumnUId",
         "DataTypeValueUId": "23018567-a13c-4320-8687-fd6f9e3699bd"
       }
     ]

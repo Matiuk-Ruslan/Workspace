@@ -2,7 +2,6 @@
 <Resources Culture="en-US">
 	<Group Type="String">
 		<Items>
-			<Item Name="Caption" Value="Недвижимость" />
 			<Item Name="Columns.Area.Caption" Value="Area" />
 			<Item Name="Columns.Commission.Caption" Value="Commission" />
 			<Item Name="Columns.Name.Caption" Value="Name" />

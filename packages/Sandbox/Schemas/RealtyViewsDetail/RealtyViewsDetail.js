@@ -1,4 +1,4 @@
-define("RealtySchemaDetail", [], function() {
+define("RealtyViewsDetail", [], function() {
 	return {
 		entitySchemaName: "RealtyView",
 		details: /**SCHEMA_DETAILS*/{}/**SCHEMA_DETAILS*/,

@@ -3,8 +3,10 @@
 	<Group Type="String">
 		<Items>
 			<Item Name="Caption" Value="Страница редактирования: &quot;Недвижимость&quot;" />
+			<Item Name="LocalizableStrings.CreateRecordsHelp.Value" Value="Создание записей" />
 			<Item Name="LocalizableStrings.GeneralInformationTabLabelTabCaption.Value" Value="Общая информация" />
 			<Item Name="LocalizableStrings.RealtySchemaDetailDetailCaptionOnPage.Value" Value="Просмотры недвижимости" />
+			<Item Name="LocalizableStrings.WarningMessageValidator.Value" Value="Ввод отрицательного значения невозможен" />
 		</Items>
 	</Group>
 </Resources>

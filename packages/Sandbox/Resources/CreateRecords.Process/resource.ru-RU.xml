@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.AddDataUserTask1.Caption" Value="Создать запись" />
+			<Item Name="BaseElements.AddDataUserTask1.Parameters.ConsiderTimeInFilter.Caption" Value="Учитывать время в фильтре" />
+			<Item Name="BaseElements.AddDataUserTask1.Parameters.ConsiderTimeInFilter.DisplayValue" Value="true" />
+			<Item Name="BaseElements.AddDataUserTask1.Parameters.DataSourceFilters.Caption" Value="Фильтры источника данных" />
+			<Item Name="BaseElements.AddDataUserTask1.Parameters.EntitySchemaId.Caption" Value="Объект" />
+			<Item Name="BaseElements.AddDataUserTask1.Parameters.FilterEntitySchemaId.Caption" Value="Объект выборки" />
+			<Item Name="BaseElements.AddDataUserTask1.Parameters.RecordAddMode.Caption" Value="Режим добавления записей" />
+			<Item Name="BaseElements.AddDataUserTask1.Parameters.RecordDefValues.Caption" Value="Значения полей" />
+			<Item Name="BaseElements.AddDataUserTask1.Parameters.RecordId.Caption" Value="Id созданной записи" />
+			<Item Name="BaseElements.AddMessageToAll.Caption" Value="Сообщить о добавлении записей" />
+			<Item Name="BaseElements.ConditionalSequenceFlow1.Caption" Value="Счетчик &lt; 4" />
+			<Item Name="BaseElements.FormulaTask1.Caption" Value="Текущая дата + 1 день" />
+			<Item Name="BaseElements.FormulaTask2.Caption" Value="Счетчик + 1" />
+			<Item Name="Caption" Value="Создание записей" />
+			<Item Name="LaneSets.LaneSet1.Caption" Value="LaneSet 1" />
+			<Item Name="LaneSets.LaneSet1.Lanes.Lane1.Caption" Value="Lane 1" />
+			<Item Name="NotificationCaption.Caption" Value="Заголовок экземпляра процесса" />
+			<Item Name="NotificationCaption.DisplayValue" Value="[#Название процесса#]" />
+			<Item Name="Parameters.Counter.Caption" Value="Счетчик" />
+			<Item Name="Parameters.NowDateTime.Caption" Value="Текущая дата" />
+			<Item Name="Parameters.NowDateTime.DisplayValue" Value="[#Системная переменная.Текущее значение даты и времени#]" />
+			<Item Name="Parameters.RealtyId.Caption" Value="Идентификатор недвижимости" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,9 +1,11 @@
 D:\[Education]\[Sandbox]\environment\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\Sandbox\Files\Bin\Sandbox.dll
 D:\[Education]\[Sandbox]\environment\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\Sandbox\Files\Bin\Sandbox.pdb
+D:\[Education]\[Sandbox]\environment\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\Sandbox\Files\Bin\Newtonsoft.Json.dll
 D:\[Education]\[Sandbox]\environment\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\Sandbox\Files\obj\Release\Sandbox.csproj.AssemblyReference.cache
 D:\[Education]\[Sandbox]\environment\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\Sandbox\Files\obj\Release\Sandbox.GeneratedMSBuildEditorConfig.editorconfig
 D:\[Education]\[Sandbox]\environment\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\Sandbox\Files\obj\Release\Sandbox.AssemblyInfoInputs.cache
 D:\[Education]\[Sandbox]\environment\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\Sandbox\Files\obj\Release\Sandbox.AssemblyInfo.cs
 D:\[Education]\[Sandbox]\environment\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\Sandbox\Files\obj\Release\Sandbox.csproj.CoreCompileInputs.cache
+D:\[Education]\[Sandbox]\environment\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\Sandbox\Files\obj\Release\Sandbox.csproj.CopyComplete
 D:\[Education]\[Sandbox]\environment\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\Sandbox\Files\obj\Release\Sandbox.dll
 D:\[Education]\[Sandbox]\environment\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\Sandbox\Files\obj\Release\Sandbox.pdb
