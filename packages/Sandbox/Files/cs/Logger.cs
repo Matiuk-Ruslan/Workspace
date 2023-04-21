@@ -10,7 +10,7 @@ namespace Sandbox.cs
         {
             try
             {
-                Insert insert = new Insert(userConnection).Into("UsrLog")
+                Insert insert = new Insert(userConnection).Into("Logger")
                     .Set("Execution", Column.Parameter(DateTime.Now))
                     .Set("Service", Column.Parameter(service))
                     .Set("Body", Column.Parameter(body));

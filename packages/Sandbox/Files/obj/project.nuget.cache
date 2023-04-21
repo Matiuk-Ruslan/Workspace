@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "+LkluVJ2ddETjg1VgA0H3Pb5/N+O/AmZpAv/lNWGaRtWXgfBL+989E+vxnECVnX/SKAb8zSQl5+0CCBfXXnzyA==",
+  "dgSpecHash": "ND0ykxmZDS1EF6atqBRl6kbjb2P7b5ph270R5DtwZarFrTlMfH00EqR+8iKSYORufKe2xy24GJwupXwlVZLDWA==",
   "success": true,
   "projectFilePath": "D:\\[Education]\\[Sandbox]\\workspace\\packages\\Sandbox\\Files\\Sandbox.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Maib\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

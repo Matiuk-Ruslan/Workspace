@@ -7,3 +7,5 @@ D:\[Education]\[Sandbox]\workspace\packages\Sandbox\Files\obj\Debug\Sandbox.Asse
 D:\[Education]\[Sandbox]\workspace\packages\Sandbox\Files\obj\Debug\Sandbox.csproj.CoreCompileInputs.cache
 D:\[Education]\[Sandbox]\workspace\packages\Sandbox\Files\obj\Debug\Sandbox.dll
 D:\[Education]\[Sandbox]\workspace\packages\Sandbox\Files\obj\Debug\Sandbox.pdb
+D:\[Education]\[Sandbox]\workspace\packages\Sandbox\Files\Bin\Newtonsoft.Json.dll
+D:\[Education]\[Sandbox]\workspace\packages\Sandbox\Files\obj\Debug\Sandbox.csproj.CopyComplete

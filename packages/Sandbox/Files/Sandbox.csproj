@@ -108,6 +108,9 @@
 			</ItemGroup>
 		</When>
 	</Choose>
+	<ItemGroup>
+	  <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+	</ItemGroup>
 	<ItemGroup Label="Core References">
 		<Reference Include="Terrasoft.Common">
 			<HintPath>$(CoreLibPath)/Terrasoft.Common.dll</HintPath>
