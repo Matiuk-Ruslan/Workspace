@@ -10,6 +10,13 @@
     },
     "Columns": [
       {
+        "ColumnUId": "3107ef98-a02e-4ea8-809a-67dc3025ef4a",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "TypeColumnUId",
+        "DataTypeValueUId": "23018567-a13c-4320-8687-fd6f9e3699bd"
+      },
+      {
         "ColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
         "IsForceUpdate": false,
         "IsKey": true,
@@ -21,13 +28,6 @@
         "IsForceUpdate": false,
         "IsKey": false,
         "ColumnName": "SysEntitySchemaUId",
-        "DataTypeValueUId": "23018567-a13c-4320-8687-fd6f9e3699bd"
-      },
-      {
-        "ColumnUId": "3107ef98-a02e-4ea8-809a-67dc3025ef4a",
-        "IsForceUpdate": false,
-        "IsKey": false,
-        "ColumnName": "TypeColumnUId",
         "DataTypeValueUId": "23018567-a13c-4320-8687-fd6f9e3699bd"
       }
     ]

@@ -15,6 +15,11 @@ define("RealtyPage", ["ProcessModuleUtilities"], function (ProcessModuleUtilitie
                 lookupListConfig: {
                     columns: ["Coefficient"]
                 }
+            },
+			"ButtonEnabled": {
+                "dataValueType": Terrasoft.DataValueType.BOOLEAN,
+                "type": Terrasoft.ViewModelColumnType.VIRTUAL_COLUMN,
+                "value": false
             }
         },
         modules: /**SCHEMA_MODULES*/{}/**SCHEMA_MODULES*/,
@@ -72,6 +77,7 @@ define("RealtyPage", ["ProcessModuleUtilities"], function (ProcessModuleUtilitie
             onEntityInitialized: function () {
                 this.callParent(arguments);
                 this.calculateCommission();
+				this.isRecordExist();
                 this.sandbox.subscribe("SetRealtyViews", this.updateDetailRealtyViews, this);
             },
             calculateCommission: function () {
@@ -93,10 +99,30 @@ define("RealtyPage", ["ProcessModuleUtilities"], function (ProcessModuleUtilitie
                 this.addColumnValidator("Price", this.valueValidator);
                 this.addColumnValidator("Area", this.valueValidator);
             },
-            isButtonEnabled: function () {
-                var selectedId = this.get("Id");
-                return selectedId ? true : false;
+            isRecordExist: function () {
+				var pageContext = this;
+                var recordId = this.get("Id");
+				if(recordId) {
+					var readESQ = this.Ext.create("Terrasoft.EntitySchemaQuery", { rootSchemaName: "Realty" });
+					readESQ.addColumn("Id");
+                	var esqFirstFilter = readESQ.createColumnFilterWithParameter(Terrasoft.ComparisonType.EQUAL, "Id", recordId);
+                	readESQ.filters.add("esqFirstFilter", esqFirstFilter);
+                	readESQ.getEntityCollection(function (result) {
+						if (result.success) {
+							var count = result.collection.getCount();
+							pageContext.setButtonEnabled(count);
+						}
+					});
+				}
             },
+			setButtonEnabled: function (count) {
+				if (count == 1) {
+					this.set("ButtonEnabled", true);
+				}
+				else {
+					this.set("ButtonEnabled", false);
+				}
+			},
             callCreateRecords: function () {
                 var realtyId = this.get("Id");
                 if (realtyId) {
@@ -296,7 +322,7 @@ define("RealtyPage", ["ProcessModuleUtilities"], function (ProcessModuleUtilitie
                     "caption": {bindTo: "Resources.Strings.CreateRecordsHelp"},
                     "click": {bindTo: "callCreateRecords"},
                     "style": Terrasoft.controls.ButtonEnums.style.GREEN,
-					"enabled": {bindTo: "isButtonEnabled"},
+					"enabled": {bindTo: "ButtonEnabled"},
                 }
             }
         ]/**SCHEMA_DIFF*/

@@ -10,13 +10,6 @@
     },
     "Columns": [
       {
-        "ColumnUId": "34391227-ac90-4b55-9739-6720e97a0594",
-        "IsForceUpdate": false,
-        "IsKey": false,
-        "ColumnName": "Lookup",
-        "DataTypeValueUId": "b295071f-7ea9-4e62-8d1a-919bf3732ff2"
-      },
-      {
         "ColumnUId": "9e46bb69-9788-423c-b7cd-4c624081082d",
         "IsForceUpdate": false,
         "IsKey": false,
@@ -29,6 +22,13 @@
         "IsKey": true,
         "ColumnName": "Id",
         "DataTypeValueUId": "23018567-a13c-4320-8687-fd6f9e3699bd"
+      },
+      {
+        "ColumnUId": "34391227-ac90-4b55-9739-6720e97a0594",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "Lookup",
+        "DataTypeValueUId": "b295071f-7ea9-4e62-8d1a-919bf3732ff2"
       }
     ]
   }

@@ -13,7 +13,7 @@
                     this.addMessageConfig({ sender: "SetRealtyViews", messageName: "SetRealtyViews" });
                 },
                 afterPublishMessage: function (sandboxMessageName, webSocketBody, result, publishConfig) {
-                    if (sandboxMessageName === "SetRealtyViews") { window.console.info("Бизнес-процесс [CreateRecords] успешно отработал"); }
+                    if (sandboxMessageName === "SetRealtyViews") { window.console.info("Бизнес-процесс [CreateRecords] успешно добавил записи в объект [RealtyView]"); }
                 }
             }
         };

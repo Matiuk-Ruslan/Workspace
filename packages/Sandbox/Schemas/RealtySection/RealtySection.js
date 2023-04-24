@@ -12,10 +12,17 @@ define("RealtySection", ["ProcessModuleUtilities"], function(ProcessModuleUtilit
 		methods: {
             onCardRendered: function() {
                 this.callParent();
-                var activeRow = this.get("ActiveRow");
-                if (activeRow) { this.set("ButtonEnabled", true); }
-				else { this.set("ButtonEnabled", false); }
+				this.setButtonEnabled();
             },
+			setButtonEnabled: function () {
+				var activeRow = this.get("ActiveRow");
+                if (activeRow) { 
+					this.set("ButtonEnabled", true); 
+				}
+				else { 
+					this.set("ButtonEnabled", false); 
+				}
+			},
 			callCreateRecords: function () {
                 var realtyId = this.get("ActiveRow");
                 if (realtyId) {
