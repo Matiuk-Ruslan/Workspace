@@ -10,20 +10,6 @@
     },
     "Columns": [
       {
-        "ColumnUId": "9e53fd7c-dde4-4502-a64c-b9e34148108b",
-        "IsForceUpdate": false,
-        "IsKey": false,
-        "ColumnName": "Description",
-        "DataTypeValueUId": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
-      },
-      {
-        "ColumnUId": "e44c8807-bc0e-4415-b41c-2272c8fbdf42",
-        "IsForceUpdate": false,
-        "IsKey": false,
-        "ColumnName": "FolderType",
-        "DataTypeValueUId": "b295071f-7ea9-4e62-8d1a-919bf3732ff2"
-      },
-      {
         "ColumnUId": "527b9e4e-7dbf-4721-a112-72b423b3365a",
         "IsForceUpdate": false,
         "IsKey": false,
@@ -45,6 +31,13 @@
         "DataTypeValueUId": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
       },
       {
+        "ColumnUId": "e44c8807-bc0e-4415-b41c-2272c8fbdf42",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "FolderType",
+        "DataTypeValueUId": "b295071f-7ea9-4e62-8d1a-919bf3732ff2"
+      },
+      {
         "ColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
         "IsForceUpdate": false,
         "IsKey": true,
@@ -57,6 +50,13 @@
         "IsKey": false,
         "ColumnName": "OptimizationType",
         "DataTypeValueUId": "6b6b74e2-820d-490e-a017-2b73d4ccf2b0"
+      },
+      {
+        "ColumnUId": "9e53fd7c-dde4-4502-a64c-b9e34148108b",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "Description",
+        "DataTypeValueUId": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
       }
     ]
   }

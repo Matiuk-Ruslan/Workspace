@@ -15,6 +15,7 @@
 			<Item Name="BaseElements.ConditionalSequenceFlow1.Caption" Value="Счетчик &lt; 4" />
 			<Item Name="BaseElements.FormulaTask1.Caption" Value="Текущая дата + 1 день" />
 			<Item Name="BaseElements.FormulaTask2.Caption" Value="Счетчик + 1" />
+			<Item Name="BaseElements.FormulaTask3.Caption" Value="Текущая дата + 1 день" />
 			<Item Name="Caption" Value="Создание записей" />
 			<Item Name="LaneSets.LaneSet1.Caption" Value="LaneSet 1" />
 			<Item Name="LaneSets.LaneSet1.Lanes.Lane1.Caption" Value="Lane 1" />

@@ -15,6 +15,7 @@
 			<Item Name="BaseElements.ConditionalSequenceFlow1.Caption" Value="Counter &lt; 4" />
 			<Item Name="BaseElements.FormulaTask1.Caption" Value="Current date + 1 day" />
 			<Item Name="BaseElements.FormulaTask2.Caption" Value="Counter + 1" />
+			<Item Name="BaseElements.FormulaTask3.Caption" Value="Current date + 1 day" />
 			<Item Name="Caption" Value="Create records" />
 			<Item Name="LaneSets.LaneSet1.Caption" Value="LaneSet 1" />
 			<Item Name="LaneSets.LaneSet1.Lanes.Lane1.Caption" Value="Lane 1" />

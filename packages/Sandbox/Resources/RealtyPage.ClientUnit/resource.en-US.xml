@@ -3,8 +3,11 @@
 	<Group Type="String">
 		<Items>
 			<Item Name="Caption" Value="Edit page: &quot;Realty&quot;" />
+			<Item Name="LocalizableStrings.AreaHelp.Value" Value="m2" />
+			<Item Name="LocalizableStrings.CommissionHelp.Value" Value="USD" />
 			<Item Name="LocalizableStrings.CreateRecordsHelp.Value" Value="Create records" />
 			<Item Name="LocalizableStrings.GeneralInformationTabLabelTabCaption.Value" Value="General information" />
+			<Item Name="LocalizableStrings.PriceHelp.Value" Value="USD" />
 			<Item Name="LocalizableStrings.RealtySchemaDetailDetailCaptionOnPage.Value" Value="Просмотры недвижимости" />
 			<Item Name="LocalizableStrings.WarningMessageValidator.Value" Value="Input a negative value is not possible" />
 		</Items>

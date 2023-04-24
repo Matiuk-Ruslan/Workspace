@@ -1,10 +1,10 @@
 ﻿{
   "Descriptor": {
     "UId": "db086ebe-8ac0-40f4-b7ac-a0b9ebca90cf",
-    "PackageVersion": "0.0.0",
+    "PackageVersion": "1.0.0",
     "Name": "Sandbox",
     "Type": 1,
-    "ModifiedOnUtc": "\/Date(1681986442000)\/",
+    "ModifiedOnUtc": "\/Date(1681986443000)\/",
     "Maintainer": "Education",
     "ProjectPath": "Files/Sandbox.csproj",
     "Description": "Creatio certification task",
@@ -18,6 +18,11 @@
         "UId": "613fd913-be03-46ce-909b-f44e4225469e",
         "PackageVersion": "7.8.0",
         "Name": "UIv2"
+      },
+      {
+        "UId": "ff9d3ada-7d78-4b56-b720-6ecb251a1dd4",
+        "PackageVersion": "7.8.0",
+        "Name": "SalesTeamData"
       }
     ]
   }

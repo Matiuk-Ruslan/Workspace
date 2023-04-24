@@ -10,13 +10,6 @@
     },
     "Columns": [
       {
-        "ColumnUId": "9e46bb69-9788-423c-b7cd-4c624081082d",
-        "IsForceUpdate": false,
-        "IsKey": false,
-        "ColumnName": "Folder",
-        "DataTypeValueUId": "b295071f-7ea9-4e62-8d1a-919bf3732ff2"
-      },
-      {
         "ColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
         "IsForceUpdate": false,
         "IsKey": true,
@@ -28,6 +21,13 @@
         "IsForceUpdate": false,
         "IsKey": false,
         "ColumnName": "Lookup",
+        "DataTypeValueUId": "b295071f-7ea9-4e62-8d1a-919bf3732ff2"
+      },
+      {
+        "ColumnUId": "9e46bb69-9788-423c-b7cd-4c624081082d",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "Folder",
         "DataTypeValueUId": "b295071f-7ea9-4e62-8d1a-919bf3732ff2"
       }
     ]

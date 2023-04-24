@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "lyXtBV0quAwj4XiiF0dErZk2UHQ3xgW5BWUYIczy9awonT/C0gGLvHcKrRg62KNv1uXsO8Z158/QIl9GBFakiQ==",
+  "dgSpecHash": "ND0ykxmZDS1EF6atqBRl6kbjb2P7b5ph270R5DtwZarFrTlMfH00EqR+8iKSYORufKe2xy24GJwupXwlVZLDWA==",
   "success": true,
-  "projectFilePath": "D:\\[Education]\\[Sandbox]\\environment\\Terrasoft.WebApp\\Terrasoft.Configuration\\Pkg\\Sandbox\\Files\\Sandbox.csproj",
+  "projectFilePath": "D:\\[Education]\\[Sandbox]\\workspace\\packages\\Sandbox\\Files\\Sandbox.csproj",
   "expectedPackageFiles": [
-    "C:\\WINDOWS\\TEMP\\4\\IIS APPPOOL_education.sandbox.local\\Default\\dotnet\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+    "C:\\Users\\Maib\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
   ],
   "logs": []
 }

@@ -6,7 +6,7 @@
 * Endpoint: `{{AddressSite}}/0/rest/RealtyService/GetTotalPrice`
 * Logger: `select * from dbo.Logger with(nolock)`
 
-## Install
+## Install: Developer
 
 * Версия Creatio: `8.0.6.3522_SalesEnterprise_Softkey_MSSQL_ENU`
 * Настройка clio:
@@ -26,3 +26,8 @@
   * Очистите Redis и перезапустите приложение
     * `clio flushdb`
     * `clio restart`
+
+## Install: User
+
+* Пакет для установки базовыми средствами: `Sandbox_v1.0.0.zip`
+* После установки пакета требуется очистка Redis и перезапуск приложения
